@@ -1,5 +1,5 @@
 //POL
 Zadania na laboratoria z przedmiotu Metody Numeryczne
 
-//EMG
+//ENG
 Exercises for 'Numeric Methods's laboratories  
